@@ -1,0 +1,9 @@
+.app-container {
+    max-width: 44.8rem;
+    margin: auto;
+    padding-top: 40px;
+    background-image: url("../src/assets/pexels-photo-5185180.jpeg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 1076px;
+}
